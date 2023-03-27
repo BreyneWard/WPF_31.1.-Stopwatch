@@ -17,9 +17,7 @@ using System.Windows.Threading;
 
 namespace WPF_31._1._Stopwatch
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+   
     public partial class MainWindow : Window
     {
         DispatcherTimer dispatcherTimer = new DispatcherTimer();
